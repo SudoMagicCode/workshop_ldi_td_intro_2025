@@ -67,15 +67,11 @@ This workshop will largely focus on techniques for live performance, data proces
 
 | Time    | Topic                                           |
 | ------- | :---------------------------------------------- |
-| 2:00 PM | Intro, Context & Routable                       |
-| 3:00 PM | Artist Talk & QA - Matthew & Zoe from SudoMagic |
-| 4:00 PM | What is TouchDesigner                           |
-| 5:00 PM | Navigating the Environment                      |
-| 6:00 PM | Wrap                                            |
-
-## Summary
-
-On our first day we'll focus on the basics. We'll start with a quick round of introductions and then dive into working with TouchDesigner. We'll start by looking at the user interface, and learning about the different operator families. We'll then get started right away by setting up a render network, and working with post processing effects. There are lots of ways we can manipulate video in TouchDesigner, and getting a firm handle on what image manipulation looks like will set us up for working with camera effects in the late afternoon. We'll warp the day by looking at creating custom parameters and outputting our content to another window or another screen.
+| 2:00 PM | Intro to TouchDesigner, Navigating the Environment & OP Families |
+| 3:00 PM | POP & TOPs Deepdive |
+| 4:00 PM | Realtime Rendering & Post Processing |
+| 5:00 PM | I/O with TouchDesigner (OSC) |
+| 6:00 PM | Wrap |
 
 ---
 
